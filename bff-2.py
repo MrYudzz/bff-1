@@ -50,7 +50,7 @@ if __name__=="__main__":
 	except FileNotFoundError:
 		os.system('pkg install play-audio' )
 			
-	from romz.menu import romz_xyz_ganteng_banget as onichan 
+	from x.menu import romz_xyz_ganteng_banget as onichan 
 	#from log.masuk import romz_tzy as masuk 
 	from shutil import rmtree as lolichan
 	runtah = [
